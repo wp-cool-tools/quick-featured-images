@@ -1,10 +1,10 @@
 === Quick Featured Images ===
-Contributors: Hinjiriyo
+Contributors: kybernetikservices,Hinjiriyo
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 5.6
-Stable tag: 13.5.4
+Tested up to: 5.6.1
+Stable tag: 13.5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -238,6 +238,10 @@ If you want to contribute a translation of the plugin in your language it would 
 7. The seventh and last screen: take an overview of your rules for future default featured images.
 
 == Changelog ==
+
+= 13.5.5 =
+* new branding
+* Tested successfully with WordPress 5.6.1
 
 = 13.5.4 =
 * Fixed assignments errors in the image column on the post overview page

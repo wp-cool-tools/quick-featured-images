@@ -1,20 +1,20 @@
 <?php
 /**
  * @package   Quick_Featured_Images_Admin
- * @author    Martin Stehle <shop@stehle-internet.de>
+ * @author    Kybernetik Services <wordpress@kybernetik.com.de>
  * @license   GPL-2.0+
- * @link      http://stehle-internet.de/
- * @copyright 2014 Martin Stehle
+ * @link      https://www.kybernetik-services.com/
+ * @copyright 2014 Kybernetik Services
  *
  * @wordpress-plugin
  * Plugin Name:       Quick Featured Images
  * Plugin URI:        http://wordpress.org/plugins/quick-featured-images
  * Description:       Your time-saving Swiss Army Knife for featured images: Set, replace and delete them in bulk, in posts lists and set default images for future posts.
- * Version:           13.5.4
+ * Version:           13.5.5
  * Requires at least: 3.8
  * Requires PHP:      5.2
- * Author:            Martin Stehle
- * Author URI:        http://stehle-internet.de
+ * Author:            Kybernetik Services
+ * Author URI:        https://www.kybernetik-services.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=author
  * Text Domain:       quick-featured-images
  * Domain Path:       /languages
  * License:           GPL-2.0+
