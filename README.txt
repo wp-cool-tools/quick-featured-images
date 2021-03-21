@@ -295,6 +295,7 @@ If you want to contribute a translation of the plugin in your language it would 
 = 13.5.6 =
 * added autoload class
 * small improvements and fixes
+* moved language files to [GlotPress](https://translate.wordpress.org/locale/ca/default/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
 * added information about the [Pro version](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
