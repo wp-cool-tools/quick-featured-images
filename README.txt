@@ -293,6 +293,8 @@ If you want to contribute a translation of the plugin in your language it would 
 == Changelog ==
 
 = 13.5.6 =
+* added autoload class
+* small improvements and fixes
 * added information about the [Pro version](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
