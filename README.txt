@@ -5,7 +5,7 @@ Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
 Tested up to: 5.7
-Stable tag: 13.5.6
+Stable tag: 13.5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -167,19 +167,8 @@ Under **'Featured Images' &gt; 'Settings'** you can switch on and off the additi
 
 = Languages =
 
-For the most part the user interface is available in
-
-* Arabic (العربية), kindly drawn up by [Shadi AlZard](https://wordpress.org/support/profile/salzard)
-* Brazilian Portuguese (Português do Brasil)
-* Catalan (Català), kindly drawn up by [Ibidem Group](https://www.ibidemgroup.com/)
-* English
-* French (Francais), kindly drawn up by Ivan M. Frakov
-* German (Deutsch)
-* Greek (Ελληνικά), kindly drawn up by Kostas Arvanitidis
-* Japanese (日本語), kindly drawn up by [Kazuyuki Kumai](https://wordpress.org/support/users/kazuyk/)
-* Spanish (Español), kindly drawn up by Andrew Kurtis from [www.webhostinghub.com](http://www.webhostinghub.com/)
-
-Further translations are welcome. If you want to give in your translation please leave a notice in the [plugin's support forum](https://wordpress.org/support/plugin/quick-featured-images).
+Quick Featured Images is currently available in 9 languages (Arabic, Dutch, Dutch (Belgium), English (US), French (France), German, Greek, Portuguese (Brazil) and Spanish (Spain) ).
+Your language is missing? Please be part of the community an help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 = Your idea to improve the plugin is welcome =
 
@@ -292,10 +281,13 @@ If you want to contribute a translation of the plugin in your language it would 
 
 == Changelog ==
 
+= 13.5.7 =
+* improved and added text and help
+
 = 13.5.6 =
 * added autoload class
 * small improvements and fixes
-* moved language files to [GlotPress](https://translate.wordpress.org/locale/ca/default/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
+* moved language files to [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
 * added information about the [Pro version](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
