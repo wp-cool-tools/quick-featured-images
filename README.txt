@@ -26,7 +26,7 @@ The plugin 'Quick Featured Images' helps you bulk managing featured images, sett
 3. It enables you to **define presets for automatic default featured images** for future posts as many as you need. You can set **accurate rules based on post properties**.
 4. It **removes database entries of featured images without existing image files** with a simple single click
 
-If you want to include **audios, videos and custom post types** and get more options then take a look the **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro).
+If you want to include **audios, videos and custom post types** and get more options then take a look the **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro).
 
 = What users said =
 * **&#8220;OMG, so good!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/omg-so-good-2/) by marverix on February 27, 2021
@@ -59,7 +59,7 @@ With Quick Featured Images you can apply time-saving tasks with many featured im
 3. **Deleting featured images:** You can remove a selected featured image or all existing featured images in one go.
 4. **Removing database entries of featured images without existing image files:** You can remove them and clean your database with a simple single click.
 
-If you want to **set the first content image as featured**? Or want to **bulk set external featured images**, e.g. for a CDN? Then take a look the **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
+If you want to **set the first content image as featured**? Or want to **bulk set external featured images**, e.g. for a CDN? Then take a look the **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
 
 = Bulk Edit: Options =
 
@@ -68,7 +68,7 @@ Based on your selected action you can toggle on and off some options:
 1. **overwrite existing featured images** or **keeping them unchanged**. The latter setting is the default.
 2. **consider only posts without a featured image**. This will hide posts with featured images in the results list and will speed up the process.
 
-If you want to use the option to **remove the first image in the content** then take a look the **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
+If you want to use the option to **remove the first image in the content** then take a look the **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
 
 The **Pro version** offers you several approaches for **setting the first image as featured** additionally:
 
@@ -85,7 +85,7 @@ The **Pro version** offers you two more options if you selected multiple images 
 1. **Use each selected image only once**. If there are more posts than selected images the remaining posts will not be changed.
 2. **Remove excess featured images** after all selected images are used.
 
-If you want to use these options then take a look the **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
+If you want to use these options then take a look the **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
 
 = Bulk Edit: Filters =
 
@@ -109,7 +109,7 @@ The **Pro version** offers you additionally:
 8. Filter by **time**: Search by time specifications
 9. Filter by **parent page**: Search child pages by parent page
 
-If you want to use these filters then take a look the **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
+If you want to use these filters then take a look the **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
 
 = Bulk Edit: Presets (Pro only) =
 
@@ -288,7 +288,7 @@ If you want to contribute a translation of the plugin in your language it would 
 * added autoload class
 * small improvements and fixes
 * moved language files to [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
-* added information about the [Pro version](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
+* added information about the [Pro version](https://www.quickfeaturedimages.com/??utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
 * new branding
@@ -542,7 +542,7 @@ Added spanish translation for the main texts of the plugin
 * Updated *.pot file and german translation
 
 = 10.0 =
-* Introducing **Pro version** [Quick Featured Images Pro](https://www.kybernetik-services.com/plugins/quick-featured-images-pro/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme)
+* Introducing **Pro version** [Quick Featured Images Pro](https://www.quickfeaturedimages.com/??utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme)
 * Deleted in 'Set, replace, remove': some filters and options in favor of the Pro version
 * Corrected CSS height for images in image column to keep the aspect ratio
 * Updated *.pot file and german translation
