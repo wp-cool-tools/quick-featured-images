@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 5.7
+Tested up to: 5.8
 Stable tag: 13.5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -176,9 +176,9 @@ If you have any new idea for this plugin post your questions and ideas in the [s
 
 = Support =
 
-Support for this plugin will be provided in the form of Product Support. This means that I intend to fix any confirmed bugs, listen to ideas for this plugin and improve the user experience when enhancements are identified and can reasonably be accomodated.
+Support for this plugin will be provided in the form of Product Support. This means that we intend to fix any confirmed bugs, listen to ideas for this plugin and improve the user experience when enhancements are identified and can reasonably be accommodated.
 
-There is no User Support provided for this plugin. If you are having trouble with this plugin in your particular installation of WordPress, I will not be able to help you troubleshoot the problem.
+Pro users get premium support whilst free support is offered in the WordPress forums in our spare time. If you are having trouble with this plugin in your particular installation of WordPress, we will not be able to help you troubleshoot the problem.
 
 = No warranty and liability! = 
 
@@ -283,6 +283,7 @@ If you want to contribute a translation of the plugin in your language it would 
 
 = 13.5.7 =
 * improved and added text and help
+* Tested successfully with WordPress 5.8
 
 = 13.5.6 =
 * added autoload class
@@ -292,8 +293,8 @@ If you want to contribute a translation of the plugin in your language it would 
 
 = 13.5.5 =
 * new branding
-* Tested successfully with WordPress 5.6.2
 * Tested successfully with WordPress 5.7
+* Tested successfully with WordPress 5.6.2
 
 = 13.5.4 =
 * Fixed assignments errors in the image column on the post overview page
