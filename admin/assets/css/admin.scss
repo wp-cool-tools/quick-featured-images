@@ -7,25 +7,6 @@
 .qfi_wrapper {
 	overflow: hidden;
 }
-#qfi_main {
-	float: left;
-	width: 66%;
-}
-#qfi_footer {
-	float: right;
-	width: 33%;
-}
-#qfi_main .qfi_content {
-	margin: 2em 1em 1em 0;
-	background-color: rgba(255, 255, 255, 0.8);
-	padding-bottom: 2em;
-}
-#qfi_footer .qfi_content {
-	margin: 2em 0 1em 1em;
-	background-color: #F5FBFD;
-	border-radius: 8px;
-	border: 1px solid #ccc;
-}
 
 /* floating halfs */
 .qfi_w50percent {
@@ -35,43 +16,63 @@
 	margin: 0;
 	border: 0 none;
 	padding: 0;
-}
-.qfi_w50percent p {
-	margin-top: 0;
+	p {
+		margin-top: 0;
+	}
 }
 
 /*
  * Elements
  *
  */
- 
+#qfi_main {
+	float: left;
+	width: 66%;
+	.qfi_content {
+		margin: 2em 1em 1em 0;
+		background-color: rgba(255, 255, 255, 0.8);
+		padding-bottom: 2em;
+	}
+	.widefat {
+		a {
+			text-decoration: underline;
+		}
+	}
+}
+
 /* Footer */
-#qfi_footer .qfi_content h2 {
-	background: none;
-	margin: 0;
-}
-#qfi_footer .qfi_content dl {
-	padding: 0 8px;
-}
-#qfi_footer .qfi_content li, 
-#qfi_footer .qfi_content dd {
-	overflow: hidden; /* correct height if inner flowing elements */
-	margin-bottom: 10px;
-	margin-left: 0;
-}
-#qfi_main .widefat a {
-	text-decoration: underline;
+#qfi_footer {
+	float: right;
+	width: 33%;
+	.qfi_content {
+		margin: 2em 0 1em 1em;
+		background-color: #F5FBFD;
+		border-radius: 8px;
+		border: 1px solid #ccc;
+		h2 {
+			background: none;
+			margin: 0;
+		}
+		dl {
+			padding: 0 8px;
+		}
+		li, dd {
+			overflow: hidden; /* correct height if inner flowing elements */
+			margin-bottom: 10px;
+			margin-left: 0;
+		}
+	}
 }
 
 /* Filter 'Replace' */
 #qfi_replace {
 	overflow: hidden;
-}
-#qfi_replace label {
-	display: block;
-	float: left;
-	overflow: hidden;
-	padding: 0 3em 3em 0;
+	label {
+		display: block;
+		float: left;
+		overflow: hidden;
+		padding: 0 3em 3em 0;
+	}
 }
 #qfi_replace input[type="radio"]:checked:before,
 #qfi_replace input[type="radio"]:checked,
@@ -87,26 +88,26 @@
 
 /* Progress Bar */
 #progress {
-}
-#progress em {
-	font-weight: bold;
-	font-style: normal;
-}
-#progress #bar {
-	display: block;
-	overflow: hidden;
-	line-height: 1;
-	padding: 1em;
-	background: none repeat scroll 0 0 #e3e3e3;
-	color: #222;
-}
-#progress #bar span {
-	line-height: 1;
-	padding: 1em;
-}
-#progress #bar strong {
-	line-height: 1;
-	padding: 1em;
+	em {
+		font-weight: bold;
+		font-style: normal;
+	}
+	#bar {
+		display: block;
+		overflow: hidden;
+		line-height: 1;
+		padding: 1em;
+		background: none repeat scroll 0 0 #e3e3e3;
+		color: #222;
+		span {
+			line-height: 1;
+			padding: 1em;
+		}
+		strong {
+			line-height: 1;
+			padding: 1em;
+		}
+	}
 }
 
 /* Other content elements */
