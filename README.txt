@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 6.2
+Tested up to: 6.4
 Stable tag: 13.7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,6 +32,7 @@ If you want to include **audios, videos and custom post types** and get more opt
 You want to test Quick Featured Images before installing on your site? Try it out on your free dummy site and [click here](https://demo.tastewp.com/quick-featured-images).
 
 = What users said =
+* **&#8220;SO helpful!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/so-helpful-130/) by brandcandyamy on June 6, 2023
 * **&#8220;OMG, so good!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/omg-so-good-2/) by marverix on February 27, 2021
 * **&#8220;This was awesome and saves so much time&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/this-was-awesome-and-saves-so-much-time/) by frank on December 31, 2020
 * **&#8220;One of My Must Have Plugins&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/must-have-plugins-2/) by WillOfTheWeb on June 25, 2020
