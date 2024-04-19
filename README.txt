@@ -31,6 +31,11 @@ If you want to include **audios, videos and custom post types** and get more opt
 = Demo =
 You want to test Quick Featured Images before installing on your site? Try it out on your individual and free dummy site and [click here](https://demo.tastewp.com/quick-featured-images).
 
+= Support =
+
+Support can take place in the [public support forums](https://wordpress.org/support/plugin/quick-featured-images/), where the community can help each other out.
+Please note, we do not provide individual email support for our free version. This is reserved for customers of our [Pro version](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
+
 = What users said =
 * **&#8220;Great for my needs&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/great-for-my-needs-7/#post-17337619/) by gaiusjaugustus on Januars 12, 2024
 * **&#8220;simple to use&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/simple-to-use-337/) by rabbitace on September 8, 2023
