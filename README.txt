@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 6.5
+Tested up to: 6.6
 Stable tag: 13.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -179,7 +179,7 @@ Under **'Featured Images' &gt; 'Settings'** you can switch on and off the additi
 = Languages =
 
 Quick Featured Images is available in multiple languages maintained by the amazing WordPress community (e.g. Arabic, Dutch, Dutch (Belgium), English (US), French (France), German, Greek, Portuguese (Brazil), Spanish (Spain) and more).
-Your language is missing? Please be part of the community an help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
+Your language is missing? Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 = Your idea to improve the plugin is welcome =
 
@@ -278,16 +278,16 @@ It does not matter where the images are stored on your server. They can be in an
 
 = Where is the *.pot file for translating the plugin in any language? =
 
-If you want to contribute a translation of the plugin in your language it would be great! You would find the *.pot file in the 'languages' directory of this plugin. If you would send the *.po file to me I would include it in the next release of the plugin.
+The translations are handled on WordPress.org. Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 == Screenshots ==
 
 1. The first screen of Quick Featured Images: select an image and an action.
-2. The second screen: select a filter to narrow down to posts and pages you want to modify with the image. Alternatively you can drop filtering and jump to Screen 4 directly.
+2. The second screen: select a filter to narrow down to posts and pages you want to modify with the image. Alternatively, you can drop filtering and jump to Screen 4 directly.
 3. The third screen: refine the filters.
 4. The fourth screen: take a preview. If the filtering does not correspond to your expectations you can refine the filters again under the list on this page.
-5. The fifth screen: take an overview of the success of the action.
-6. The sixth screen: take an look on the extra column (marked red) for assigned featured images.
+5. The fifth screen: take an overview the success of the action.
+6. The sixth screen: take a look on the extra column (marked red) for assigned featured images.
 7. The seventh and last screen: take an overview of your rules for future default featured images.
 
 == Changelog ==
@@ -296,11 +296,11 @@ If you want to contribute a translation of the plugin in your language it would 
 * fixed vulnerability to unauthorized modification of data (reported by Wordfence)
 
 = 13.7.0 =
-* Improved performance when displaying post thumbnails (thanks to @odoremieux)
+* Improved performance when displaying post-thumbnails (thanks to @odoremieux)
 
 = 13.6.0 =
 * improved styles and starting using minify
-* added free vs. pro section
+* added free vs. pro-section
 
 = 13.5.7 =
 * improved and added text and help
