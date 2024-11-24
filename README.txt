@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 13.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -179,7 +179,7 @@ Under **'Featured Images' &gt; 'Settings'** you can switch on and off the additi
 = Languages =
 
 Quick Featured Images is available in multiple languages maintained by the amazing WordPress community (e.g. Arabic, Dutch, Dutch (Belgium), English (US), French (France), German, Greek, Portuguese (Brazil), Spanish (Spain) and more).
-Your language is missing? Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
+Your language is missing? Please be part of the community and help to translate Quick Featured Images on [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 = Your idea to improve the plugin is welcome =
 
@@ -282,7 +282,7 @@ It does not matter where the images are stored on your server. They can be in an
 
 = Where is the *.pot file for translating the plugin in any language? =
 
-The translations are handled on WordPress.org. Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
+The translations are handled on WordPress.org. Please be part of the community and help to translate Quick Featured Images on [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 == Screenshots ==
 
@@ -312,7 +312,7 @@ The translations are handled on WordPress.org. Please be part of the community a
 = 13.5.6 =
 * added autoload class
 * small improvements and fixes
-* moved language files to [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
+* moved language files to [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
 * added information about the [Pro version](https://www.quickfeaturedimages.com/??utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
