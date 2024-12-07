@@ -9,13 +9,13 @@ Stable tag: 13.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Your time-saving Swiss army knife for managing tons of featured images within minutes: Set, replace and delete them in bulk, in posts lists and set default images for future posts.
+The time-saving solution for managing tons of featured images within minutes: Set, replace and delete in bulk and set default images for future posts.
 
 == Description ==
 
 Your time-saving Swiss army knife for managing tons of featured images within minutes: Set, replace and delete them in bulk, in posts lists and set default images for future posts.
 
-The plugin is available in English, German (Deutsch) and Catalan (Català), for the most part in Spanish (Español), Brazilian Portuguese (Português do Brasil), French (Francais), Arabic (العربية) Japanese (日本語) and Greek (Ελληνικά). It does not collect any personal data, so it is ready for EU General Data Protection Regulation (GDPR) compliance.
+The plugin does not collect any personal data and is 100% compliant with the EU General Data Protection Regulation (GDPR).
 
 = Manage featured images quickly =
 
@@ -37,17 +37,18 @@ Support can take place in the [public support forums](https://wordpress.org/supp
 Please note, we do not provide individual email support for our free version. This is reserved for customers of our [Pro version](https://www.quickfeaturedimages.com/?utm_source=wordpress_org&utm_medium=plugin&utm_campaign=readme).
 
 = What users said =
-* **&#8220;Great for my needs&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/great-for-my-needs-7/#post-17337619/) by gaiusjaugustus on Januars 12, 2024
-* **&#8220;simple to use&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/simple-to-use-337/) by rabbitace on September 8, 2023
-* **&#8220;SO helpful!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/so-helpful-130/) by brandcandyamy on June 6, 2023
-* **&#8220;OMG, so good!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/omg-so-good-2/) by marverix on February 27, 2021
-* **&#8220;This was awesome and saves so much time&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/this-was-awesome-and-saves-so-much-time/) by frank on December 31, 2020
-* **&#8220;One of My Must Have Plugins&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/must-have-plugins-2/) by WillOfTheWeb on June 25, 2020
-* **&#8220;I&#39;m confused about it. It&#39;s very very very useful!&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/cool-928/) by yueli on December 19, 2019
-* **&#8220;Doing the job perfect&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/doing-the-job-perfect/) by stigbarrett on February 14, 2019
-* **&#8220;Must be part of wordpress core&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/mag-ni-fi-cient-must-be-part-of-wordpress-core/) by Marc73 on November 2, 2018
-* **&#8220;Simply the best for bulk featured image&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/simply-the-best-324/) by Syamsul Alam on January 21, 2018
-* **&#8220;Made adding 10,000 featured images a breeze.&#8221;** in [Reviews at wordpress.org](https://wordpress.org/support/topic/super-helpful-30/) by synchronista on July 28, 2017
+* **&#8220;Excellent plugin to do just that: quickly manage all your featured images without the need to edit the posts directly.&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/it-does-exactly-what-it-says-57/) by danielepais on December 7, 2045
+* **&#8220;Great for my needs&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/great-for-my-needs-7/#post-17337619/) by gaiusjaugustus on January 12, 2024
+* **&#8220;simple to use&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/simple-to-use-337/) by rabbitace on September 8, 2023
+* **&#8220;SO helpful!&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/so-helpful-130/) by brandcandyamy on June 6, 2023
+* **&#8220;OMG, so good!&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/omg-so-good-2/) by marverix on February 27, 2021
+* **&#8220;This was awesome and saves so much time&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/this-was-awesome-and-saves-so-much-time/) by frank on December 31, 2020
+* **&#8220;One of My Must Have Plugins&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/must-have-plugins-2/) by WillOfTheWeb on June 25, 2020
+* **&#8220;I&#39;m confused about it. It&#39;s very very very useful!&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/cool-928/) by yueli on December 19, 2019
+* **&#8220;Doing the job perfect&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/doing-the-job-perfect/) by stigbarrett on February 14, 2019
+* **&#8220;Must be part of wordpress core&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/mag-ni-fi-cient-must-be-part-of-wordpress-core/) by Marc73 on November 2, 2018
+* **&#8220;Simply the best for bulk featured image&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/simply-the-best-324/) by Syamsul Alam on January 21, 2018
+* **&#8220;Made adding 10,000 featured images a breeze.&#8221;** in [Reviews on wordpress.org](https://wordpress.org/support/topic/super-helpful-30/) by synchronista on July 28, 2017
 * **Number 7** in [8 Plugins to Help Supercharge Your WordPress Media Library](https://www.elegantthemes.com/blog/tips-tricks/8-plugins-to-help-supercharge-your-wordpress-media-library) by John Hughes on April 6, 2017
 * **&#8220;The plugin is fast, and it works great on big WordPress websites.&#8221;** in [How to make WP display featured image on excerpts?](http://hostileblog.com/wp-display-featured-image/) by Pramod on July 16, 2016
 * **&#8220;The plugin offers great features for handling the post thumbnails including bulk editing, overview, replace and much more.&#8221;** in [6+ Best Plugins To Fix Featured Image Issues in WordPress](https://85ideas.com/plugins/best-plugins-fix-featured-image-issues-wordpress/) by Editorial Staff on December 3, 2015
@@ -179,7 +180,7 @@ Under **'Featured Images' &gt; 'Settings'** you can switch on and off the additi
 = Languages =
 
 Quick Featured Images is available in multiple languages maintained by the amazing WordPress community (e.g. Arabic, Dutch, Dutch (Belgium), English (US), French (France), German, Greek, Portuguese (Brazil), Spanish (Spain) and more).
-Your language is missing? Please be part of the community and help to translate Quick Featured Images on [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
+Your language is missing? Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 = Your idea to improve the plugin is welcome =
 
@@ -223,7 +224,6 @@ BECAUSE THE ProGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE Pro
 3. Upload the `quick-featured-images` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 5. Go to 'Featured Images'
-
 
 == Frequently Asked Questions ==
 
@@ -282,7 +282,7 @@ It does not matter where the images are stored on your server. They can be in an
 
 = Where is the *.pot file for translating the plugin in any language? =
 
-The translations are handled on WordPress.org. Please be part of the community and help to translate Quick Featured Images on [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
+The translations are handled on WordPress.org. Please be part of the community and help to translate Quick Featured Images on [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). Thank you!
 
 == Screenshots ==
 
@@ -312,7 +312,7 @@ The translations are handled on WordPress.org. Please be part of the community a
 = 13.5.6 =
 * added autoload class
 * small improvements and fixes
-* moved language files to [GlotDict](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
+* moved language files to [GlotPress](https://translate.wordpress.org/projects/wp-plugins/quick-featured-images/). So, please contribute as a translator to make Quick Featured Images available in more and more languages.
 * added information about the [Pro version](https://www.quickfeaturedimages.com/??utm_source=wordpress_org&utm_medium=plugin&utm_campaign=quick-featured-images&utm_content=go_pro)
 
 = 13.5.5 =
