@@ -298,6 +298,8 @@ The translations are handled on WordPress.org. Please be part of the community a
 
 = 13.7.2 =
 * improved class autoloader to prevent issues with a Transliteration Plugin
+* improved code
+* fixed deprecated notices
 
 = 13.7.1 =
 * fixed vulnerability to unauthorized modification of data (reported by Wordfence)
