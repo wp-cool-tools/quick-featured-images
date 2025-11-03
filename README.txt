@@ -4,8 +4,8 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
 Requires PHP: 5.2
-Tested up to: 6.8
-Stable tag: 13.7.3
+Tested up to: 6.9
+Stable tag: 13.7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -296,6 +296,9 @@ The translations are handled on WordPress.org. Please be part of the community a
 7. The seventh and last screen: take an overview of your rules for future default featured images.
 
 == Changelog ==
+
+= 13.7.4 =
+* fixed Authenticated (Editor+) SQL Injection via delete_orphaned() reported by Jonas Benjamin Friedli at Wordfence. Thank you for this!
 
 = 13.7.3 =
 * fixed Insecure Direct Object Reference to Image Manipulation reported by Lucas Montes (Nirox) at Wordfence. Thank you for this!
