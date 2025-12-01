@@ -1,5 +1,5 @@
 === Quick Featured Images ===
-Contributors: kybernetikservices,Hinjiriyo
+Contributors: kybernetikservices,wpcooltools,Hinjiriyo
 Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
 Requires at least: 3.8
