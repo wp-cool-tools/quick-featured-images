@@ -298,7 +298,8 @@ The translations are handled on WordPress.org. Please be part of the community a
 == Changelog ==
 
 = 13.7.5 =
-* fixed: Default featured images based on categories could be assigned late or incorrectly when saving posts.
+* fixed Default featured images based on categories could be assigned late or incorrectly when saving posts.
+* added a WordPress Playground blueprint for testing the plugin with demo posts, categories, and images for quick testing.
 * bumped required WordPress to 5.6
 
 = 13.7.4 =
