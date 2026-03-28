@@ -2,10 +2,10 @@
 Contributors: kybernetikservices,wpcooltools,Hinjiriyo
 Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
 Tags: featured image,featured images,bulk set,automatic,thumbnails
-Requires at least: 3.8
+Requires at least: 5.6
 Requires PHP: 5.2
-Tested up to: 6.9
-Stable tag: 13.7.4
+Tested up to: 7.0
+Stable tag: 13.7.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -297,6 +297,10 @@ The translations are handled on WordPress.org. Please be part of the community a
 
 == Changelog ==
 
+= 13.7.5 =
+* fixed: Default featured images based on categories could be assigned late or incorrectly when saving posts.
+* bumped required WordPress to 5.6
+
 = 13.7.4 =
 * fixed Authenticated (Editor+) SQL Injection via delete_orphaned() reported by Jonas Benjamin Friedli at Wordfence. Thank you for this!
 
@@ -341,7 +345,7 @@ The translations are handled on WordPress.org. Please be part of the community a
 * Updated screenshots for the plugin page
 
 = 13.5.1 =
-* Added catalan translation, thanks to Ibidem Group
+* Added Catalan translation, thanks to Ibidem Group
 * Changed order of action links 
 
 = 13.5.0 =
@@ -380,7 +384,7 @@ The translations are handled on WordPress.org. Please be part of the community a
 * Pro: Added support of Facebook images, added Export/Import of rules on page 'Default Images'
 
 = 13.3.1 =
-* Added greek translation. Thank you, Kostas Arvanitidis!
+* Added Greek translation. Thank you, Kostas Arvanitidis!
 * Changed label 'Set, replace, remove' to WP string 'Bulk Edit' to be translated in much more languages
 * Changed label 'Preset Featured Images' to WP string 'Default Images' to be translated in much more languages
 * Changed previous mentioned labels in readme file
@@ -405,8 +409,8 @@ The translations are handled on WordPress.org. Please be part of the community a
 * Revised translations
 
 = 13.1 =
-* Added french translation. Thank you, Ivan M. Frakov!
-* Revised sanitations for texts and URLs on the pages
+* Added French translation. Thank you, Ivan M. Frakov!
+* Revised sanitation for texts and URLs on the pages
 * Revised translations
 * Set activation message as dismissible
 
@@ -416,7 +420,7 @@ Fixed in 'Set, replace, remove': unnecessary HTML escaping
 = 13.0 =
 * Added in 'Set, replace, remove': action for removing database entries of featured images without existing image files
 * Added in image column: check for existence of image file and, if not available, Delete link
-* Revised: added sanitations to (nearly) all displayed texts
+* Revised: added sanitation to (nearly) all displayed texts
 * Updated translations
 
 = 12.3.7 =
@@ -425,7 +429,7 @@ Fixed in 'Set, replace, remove': unnecessary HTML escaping
 * in Pro version: Added options for thumbnails of external services embedded with an URL
 
 = 12.3.6 =
-* Fixed missing sanitations of ID in "Columns" class to close possible cross-site-scripting security hole
+* Fixed missing sanitation of ID in "Columns" class to close possible cross-site-scripting security hole
 
 = 12.3.5 =
 * Fixed outdated (pre WP 4.8) texts for WP 4.8
@@ -523,7 +527,7 @@ Fixed in 'Set, replace, remove': unnecessary HTML escaping
 * Pro version: Added search in post title in 'Default Images'': set default featured image for posts with a specific search string in the title
 
 = 11.4 =
-Added spanish translation for the main texts of the plugin
+Added Spanish translation for the main texts of the plugin
 
 = 11.3 =
 * Added in image column: Link to the edit page of the displayed image
