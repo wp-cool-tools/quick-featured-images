@@ -1,7 +1,7 @@
 === Quick Featured Images ===
 Contributors: kybernetikservices,wpcooltools,Hinjiriyo
 Donate link: https://www.paypal.com/donate?hosted_button_id=NSEQX73VHXKS8
-Tags: featured image,featured images,bulk set,automatic,thumbnails
+Tags: featured image,featured images,bulk edit,post thumbnails,media library
 Requires at least: 5.6
 Requires PHP: 5.2
 Tested up to: 7.0
